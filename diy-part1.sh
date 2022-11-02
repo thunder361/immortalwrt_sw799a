@@ -19,7 +19,7 @@
 
 #smartdns
 svn co https://github.com/pymumu/openwrt-smartdns package/smartdns
-svn co https://github.com/pymumu/luci-app-smartdns/branches/lede package/luci-app-smartdns
+svn co https://github.com/pymumu/luci-app-smartdns package/luci-app-smartdns
 
 #adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome package/adguardhome
